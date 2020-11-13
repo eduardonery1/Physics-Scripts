@@ -1,2 +1,5 @@
-# relativistic-time
-Esse script calcula o quanto o tempo se dilata a depender de quão proximo da velocidade da luz vc está
+# Relativity
+Calculate time dilation in relation to speed
+
+# Spherecial Coordinates
+Calculate sc from plane 
